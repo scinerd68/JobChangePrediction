@@ -1,3 +1,4 @@
 .vscode\
 *.pdf
 *.docx
+.vscode/settings.json

@@ -3,3 +3,4 @@
 *.docx
 .vscode/settings.json
 venv
+__pycache__/custom_transformer.cpython-37.pyc

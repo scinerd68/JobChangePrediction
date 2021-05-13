@@ -75,7 +75,7 @@ class OrdToNumeric(TransformerMixin):
         if x == '<10' :
             return 0
         if x == '10/49' :
-            return None
+            return 1
         if x == '50-99' :
             return 2
         if x == '100-500' :

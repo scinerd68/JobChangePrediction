@@ -1,5 +1,5 @@
 .vscode/
 *.pdf
 .vscode/settings.json
-venv
+venv/
 .ipynb_checkpoints/
